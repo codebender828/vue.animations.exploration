@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "^3.0.0"
+  },
+  "dependencies": {
+    "@emotion/css": "^11.10.5",
+    "@emotion/server": "^11.10.0",
+    "@fontsource/ibm-plex-sans": "^4.5.13",
+    "@motionone/vue": "^10.15.5",
+    "@vable/nuxt.emotion": "^1.0.3",
+    "@vueuse/core": "^9.11.1",
+    "@zag-js/dialog": "^0.2.7",
+    "@zag-js/vue": "^0.2.5",
+    "motion": "^10.15.5"
+  }
+}
